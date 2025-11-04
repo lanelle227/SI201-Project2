@@ -1,8 +1,8 @@
-# Name: 
-# Student ID:
-# Email:
+# Name: Mariah Cooperwood & Kamilah Sandoval
+# Student ID: 32843209 & 59979502
+# Email: lanelle@umich.edu
 # List who you have worked with on this homework:
-# List any AI tool (e.g. ChatGPT, GitHub Copilot):
+# List any AI tool (e.g. ChatGPT, GitHub Copilot): hello
 
 from bs4 import BeautifulSoup
 import re
