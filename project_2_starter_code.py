@@ -1,9 +1,9 @@
 # Name: Mariah Cooperwood & Kamilah Sandoval
 # Student ID: 32843209 & 59979502
-# Email: lanelle@umich.edu
+# Email: lanelle@umich.edu 
 # List who you have worked with on this homework:
 # List any AI tool (e.g. ChatGPT, GitHub Copilot): hello
-
+#Hello testing
 from bs4 import BeautifulSoup
 import re
 import os
